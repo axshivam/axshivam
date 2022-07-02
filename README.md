@@ -1,6 +1,6 @@
 ### <img src="https://github.com/axshivam/axshivam/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/axshivam/axshivam/blob/master/Assets/Earth.gif" width="24px">
 
-<em>I am Shiv Sharma, currently working in Cognizant as a Full Stack Developer, recently graduated from <a href="https://hbtu.ac.in/"><b> Harcourt Butler Technical University</b></a>. From the beginning of my college life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/axshivam/axshivam/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/axshivam/axshivam/blob/master/Assets/Rocket.gif" height="18px">is enough knowledge**. 🧠</em>
+<em>I am Shiv Sharma, currently working in @zeeve.io as a Blockchain Developer, recently graduated from <a href="https://hbtu.ac.in/"><b> Harcourt Butler Technical University</b></a>. From the beginning of my college life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/axshivam/axshivam/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/axshivam/axshivam/blob/master/Assets/Rocket.gif" height="18px">is enough knowledge**. 🧠</em>
 <br>
 
 
@@ -24,8 +24,8 @@
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- C++ ❤️❤️❤️❤️❤️
-	- JAVA ❤️❤️
-	- Python ❤️
+	- Solidity ❤️❤️❤️❤️
+	- Javascript ❤️❤️❤️❤️
 
 <img align="right" src="https://github.com/axshivam/axshivam/blob/master/Assets/Developer.gif"/>
 
@@ -41,7 +41,7 @@
 
 ## 🌱 I’m currently learning ...
 - **Randomized Algorithms**
-- **Machine Learning**
+- **Blockchain Technology**
 - **Docker & AWS**
 <br/>
   <br/>
