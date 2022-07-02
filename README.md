@@ -22,7 +22,7 @@
 <br />
 
 ## Ask me about :computer: 
-- **Competitive Programming**
+- **Programming Languages**
 	- C++ ❤️❤️❤️❤️❤️
 	- Solidity ❤️❤️❤️❤️
 	- Javascript ❤️❤️❤️❤️
