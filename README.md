@@ -57,7 +57,7 @@
   <br/>
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=axshivam&show_icons=true)
+![github stats](https://my-readme-stats-axshivam.vercel.app/api?username=axshivam&show_icons=true)
 
 
 
