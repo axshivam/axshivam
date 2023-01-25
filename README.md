@@ -10,7 +10,7 @@
 [![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Github-fetcher)](https://github.com/axshivam/Github-fetcher)
 [![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=virtual-classroom-api)](https://github.com/axshivam/Url-Feeder-Service)
 [![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=product-store-site)](https://github.com/axshivam/product-store-site)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Github-fetcher)](https://github.com/axshivam/Github-fetcher)
+[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Book-Record-Management)](https://github.com/axshivam/Book-Record-Management)
 
 <br>
 
