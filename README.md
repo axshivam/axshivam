@@ -11,11 +11,12 @@ Feel free to connect with me for smart contract development, security audits, bl
 
 🚀 Some of my main projects:
 
+[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=decentralized-drive)](https://github.com/axshivam/decentralized-drive)
+[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=chatapp)](https://github.com/axshivam/chatapp)
 [![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Url-Feeder-Service)](https://github.com/axshivam/Url-Feeder-Service)
 [![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Github-fetcher)](https://github.com/axshivam/Github-fetcher)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=virtual-classroom-api)](https://github.com/axshivam/Url-Feeder-Service)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=product-store-site)](https://github.com/axshivam/product-store-site)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Book-Record-Management)](https://github.com/axshivam/Book-Record-Management)
+[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=virtual-classroom-api)](https://github.com/axshivam/virtual-classroom-api)
+
 
 <br>
 
