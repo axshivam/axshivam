@@ -22,42 +22,53 @@ Feel free to connect with me for smart contract development, security audits, bl
 
 ## Ask me about :computer: 
 - **Programming Languages**
-	- Javascript ❤️❤️❤️❤️❤️
-	- C++ ❤️❤️❤️❤️
-	- Sql ❤️❤️❤️❤️
+  - Solidity ❤️❤️❤️❤️❤️
+  - Javascript ❤️❤️❤️❤️❤️
+  - Rust ❤️❤️❤️❤️
+  - C++ ❤️❤️❤️❤️
+  - Sql ❤️❤️❤️❤️
 
 <img align="right" src="https://github.com/axshivam/axshivam/blob/master/Assets/Developer.gif"/>
 
+- **Blockchain Development**
+  - Smart Contracts
+  - Audits
+  - Products (L1/L2 chains, indexers, faucets, wallets, explorers)
+  - Openzeppelin Defender
+          
+
 - **Frontent Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap, Jquery
-	- React with Redux :electron:
+  - HTML, CSS and Javascript :white_check_mark:
+  - Bootstrap, Jquery
+  - React with Redux :electron:
+  - Next.js 
 
 - **Backent Development**
-	- NodeJs, Express, Jwt
-	- Docker
-	- Kafka
-	- ASP.NET
-	- Graphql, Subql, Libuv 
+  - NodeJs, Express, Jwt
+  - Docker
+  - Kafka
+  - ASP.NET
+  - Graphql, Subql, Libuv
+  - AWS 
 
 - **Database**
-	- Mysql
-	- MongoDb
-	- Postgresql
-	- Cloud (Firebase & AWS)
-	- Redis
+  - Mysql
+  - MongoDb
+  - Postgresql
+  - Cloud (Firebase & AWS)
+  - Redis
 
 
 - **Tools**
-	- Postman
-	- Git
-	- VS Code
-	- Linux
-	- Nginx
+  - Postman
+  - Git
+  - VS Code
+  - Linux
+  - Nginx
 
 ## 🌱 I’m currently learning ...
-- **Event Driven Architecture**
-- **Blockchain Technology**
+- **Polygon CDK**
+- **Cosmos SDKs**
 - **Kubernetes & API Gateway**
 <br/>
   <br/>
