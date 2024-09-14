@@ -1,6 +1,11 @@
 ### <img src="https://github.com/axshivam/axshivam/blob/master/Assets/Hi.gif" width="29px"> Hello World!&nbsp;<img src="https://github.com/axshivam/axshivam/blob/master/Assets/Earth.gif" width="24px">
 
-<em>I am Shiv Sharma, currently working in Zeeve as a Senior Software Engineer, previously Interned in Cognizant, Graduated from <a href="https://hbtu.ac.in/"><b> Harcourt Butler Technical University</b></a>. From the beginning of my college life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/axshivam/axshivam/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/axshivam/axshivam/blob/master/Assets/Rocket.gif" height="18px">is enough knowledge**. 🧠</em>
+<em>I am Shiv Sharma, a Senior Software Engineer at <a href="https://www.zeeve.io/"><b> Zeeve</b></a> with a passion for technology and a deep expertise in blockchain development.
+I graduated from <a href="https://hbtu.ac.in/"><b> Harcourt Butler Technical University</b></a>, and since my college days, I’ve been driven by a curiosity for technology and a belief that there’s always more to learn. My career began with a software engineering internship at Cognizant, and now I specialize in full-stack development and blockchain technologies, particularly in Solidity, smart contracts, and blockchain infrastructure.
+
+With hands-on experience in Node.js, React, Docker, AWS, and a range of blockchains including Polkadot, BSC, ZK & Optimistic Rollups, Solana (Rust), Cosmos, Lisk, and Avalanche, I build efficient, secure, and scalable software solutions. I have a strong focus on smart contract security, dApp development, and blockchain data indexing, utilizing tools like ethers.js, web3.js, and Hardhat.
+
+Feel free to connect with me for smart contract development, security audits, blockchain infrastructure consulting (L1/L2 chains, indexers, wallets, explorers), or just to talk tech, business ideas, or even to say hi. You can reach me at shivsharmavictory@gmail.com.</em>
 <br>
 
 
