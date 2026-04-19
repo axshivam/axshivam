@@ -11,11 +11,12 @@ Feel free to connect with me for smart contract development, security audits, bl
 
 🚀 Some of my main projects:
 
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=decentralized-drive)](https://github.com/axshivam/decentralized-drive)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=chatapp)](https://github.com/axshivam/chatapp)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Url-Feeder-Service)](https://github.com/axshivam/Url-Feeder-Service)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=Github-fetcher)](https://github.com/axshivam/Github-fetcher)
-[![ReadMe Card](https://my-readme-stats-axshivam.vercel.app/api/pin/?username=axshivam&repo=virtual-classroom-api)](https://github.com/axshivam/virtual-classroom-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axshivam&repo=article-registry)](https://github.com/axshivam/article-registry)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axshivam&repo=voting-app)](https://github.com/axshivam/voting-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axshivam&repo=decentralized-drive)](https://github.com/axshivam/decentralized-drive)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axshivam&repo=chatapp)](https://github.com/axshivam/chatapp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axshivam&repo=Url-Feeder-Service)](https://github.com/axshivam/Url-Feeder-Service)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=axshivam&repo=virtual-classroom-api)](https://github.com/axshivam/virtual-classroom-api)
 
 
 <br>
@@ -25,8 +26,9 @@ Feel free to connect with me for smart contract development, security audits, bl
   - Solidity ❤️❤️❤️❤️❤️
   - Javascript ❤️❤️❤️❤️❤️
   - Rust ❤️❤️❤️❤️
-  - C++ ❤️❤️❤️❤️
+  - Java ❤️❤️❤️❤️
   - Sql ❤️❤️❤️❤️
+  - Python ❤️❤️❤️
 
 <img align="right" src="https://github.com/axshivam/axshivam/blob/master/Assets/Developer.gif"/>
 
@@ -34,7 +36,10 @@ Feel free to connect with me for smart contract development, security audits, bl
   - Smart Contracts
   - Audits
   - Products (L1/L2 chains, indexers, faucets, wallets, explorers)
-  - Openzeppelin Defender
+  - Hardhat / Anchor
+  - DEXs
+  - Prediction Platforms
+  - Oracles
           
 
 - **Frontent Development**
@@ -54,9 +59,10 @@ Feel free to connect with me for smart contract development, security audits, bl
 - **Database**
   - Mysql
   - MongoDb
-  - Postgresql
+  - PostgreSQL (TimescaleDB)
   - Cloud (Firebase & AWS)
   - Redis
+  - IPFS
 
 
 - **Tools**
@@ -66,10 +72,11 @@ Feel free to connect with me for smart contract development, security audits, bl
   - Linux
   - Nginx
 
-## 🌱 I’m currently learning ...
-- **Polygon CDK**
-- **Cosmos SDKs**
-- **Kubernetes & API Gateway**
+## 🌱 I'm currently learning ...
+- **Switchboard Protocol** (Solana oracle infrastructure)
+- **Rust & Anchor Framework** (Solana contracts/programs development)
+- **AI Agent Tooling & MCP Servers**
+- **ZK Proofs & Cryptographic Primitives**
 <br/>
   <br/>
 
